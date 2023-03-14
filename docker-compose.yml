@@ -1,0 +1,67 @@
+version: '2'
+
+volumes:
+  site:
+
+services:
+  php:
+    build: ./${PHP_VERSION}
+    container_name: ${PROJECT}php
+    volumes_from:
+      - source
+    ports:
+      - '127.0.0.1:9005:9005'
+    links:
+      - mysql
+    networks:
+      - bitrix_test
+    restart: always
+  web_server:
+    build: ./${WEB_SERVER_TYPE}
+    container_name: ${PROJECT}webserver
+    depends_on:
+      - source
+    volumes_from:
+      - source
+    ports:
+      - '127.0.0.1:86:80'
+    links:
+      - php
+    networks:
+      - bitrix_test
+    restart: always
+  mysql:
+    build: ./${DB_SERVER_TYPE}
+    container_name: ${PROJECT}mysql
+    volumes_from:
+      - source
+    environment:
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_USER: ${MYSQL_USER}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+      MYSQL_ROOT_PASSWORD: ${MYSQL_PASSWORD}
+    volumes:
+      - site:/var/lib/mysql
+      - /etc/timezone:/etc/timezone:ro
+      - /etc/localtime:/etc/localtime:ro
+    networks:
+      - bitrix_test
+    restart: unless-stopped
+  source:
+    image: alpine:latest
+    container_name: ${PROJECT}source
+    volumes:
+      - ./logs/${WEB_SERVER_TYPE}:/var/log/${WEB_SERVER_TYPE}
+      - ./logs/php:/var/log/php
+      - ./backend:/var/www/bitrix
+      - ${HOME}/.ssh:/root/ssh:ro
+      - /etc/localtime:/etc/localtime/:ro
+    networks:
+      - bitrix_test
+networks:
+  bitrix_test:
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+        - subnet: 15.100.0.0/24

@@ -1,0 +1,1119 @@
+[05-May-2022 18:42:08 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /var/www/bitrix/test.php on line 9
+[06-Jun-2022 11:38:39 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'CIBlockElement' not found in /var/www/bitrix/test.php:5
+Stack trace:
+#0 {main}
+  thrown in /var/www/bitrix/test.php on line 5
+[17-Jun-2022 15:16:30 Europe/Moscow] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /var/www/bitrix/test.php on line 17
+[17-Jun-2022 15:52:03 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(/home/ida/Загрузки/slideeee.jpg): failed to open stream: No such file or directory in /var/www/bitrix/test.php on line 4
+[17-Jun-2022 15:52:03 Europe/Moscow] PHP Stack trace:
+[17-Jun-2022 15:52:03 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/test.php:0
+[17-Jun-2022 15:52:03 Europe/Moscow] PHP   2. imagecreatefromjpeg($filename = '/home/ida/Загрузки/slideeee.jpg') /var/www/bitrix/test.php:4
+[17-Jun-2022 15:52:03 Europe/Moscow] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /var/www/bitrix/test.php on line 5
+[17-Jun-2022 15:52:03 Europe/Moscow] PHP Stack trace:
+[17-Jun-2022 15:52:03 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/test.php:0
+[17-Jun-2022 15:52:03 Europe/Moscow] PHP   2. imagesx($im = FALSE) /var/www/bitrix/test.php:5
+[17-Jun-2022 15:52:03 Europe/Moscow] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /var/www/bitrix/test.php on line 6
+[17-Jun-2022 15:52:03 Europe/Moscow] PHP Stack trace:
+[17-Jun-2022 15:52:03 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/test.php:0
+[17-Jun-2022 15:52:03 Europe/Moscow] PHP   2. imagesy($im = FALSE) /var/www/bitrix/test.php:6
+[17-Jun-2022 15:52:03 Europe/Moscow] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /var/www/bitrix/test.php on line 12
+[17-Jun-2022 15:52:03 Europe/Moscow] PHP Stack trace:
+[17-Jun-2022 15:52:03 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/test.php:0
+[17-Jun-2022 15:52:03 Europe/Moscow] PHP   2. imagecopyresampled($dst_im = resource(2) of type (gd), $src_im = FALSE, $dst_x = 0, $dst_y = 0, $src_x = 0, $src_y = 0, $dst_w = 2880, $dst_h = 1254, $src_w = NULL, $src_h = NULL) /var/www/bitrix/test.php:12
+[17-Jun-2022 15:52:22 Europe/Moscow] PHP Warning:  imagecreatefromjpeg(/home/ida/Загрузки/slideeee.jpg): failed to open stream: No such file or directory in /var/www/bitrix/test.php on line 4
+[17-Jun-2022 15:52:22 Europe/Moscow] PHP Stack trace:
+[17-Jun-2022 15:52:22 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/test.php:0
+[17-Jun-2022 15:52:22 Europe/Moscow] PHP   2. imagecreatefromjpeg($filename = '/home/ida/Загрузки/slideeee.jpg') /var/www/bitrix/test.php:4
+[17-Jun-2022 15:52:22 Europe/Moscow] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /var/www/bitrix/test.php on line 5
+[17-Jun-2022 15:52:22 Europe/Moscow] PHP Stack trace:
+[17-Jun-2022 15:52:22 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/test.php:0
+[17-Jun-2022 15:52:22 Europe/Moscow] PHP   2. imagesx($im = FALSE) /var/www/bitrix/test.php:5
+[17-Jun-2022 15:52:22 Europe/Moscow] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /var/www/bitrix/test.php on line 6
+[17-Jun-2022 15:52:22 Europe/Moscow] PHP Stack trace:
+[17-Jun-2022 15:52:22 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/test.php:0
+[17-Jun-2022 15:52:22 Europe/Moscow] PHP   2. imagesy($im = FALSE) /var/www/bitrix/test.php:6
+[17-Jun-2022 15:52:22 Europe/Moscow] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /var/www/bitrix/test.php on line 12
+[17-Jun-2022 15:52:22 Europe/Moscow] PHP Stack trace:
+[17-Jun-2022 15:52:22 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/test.php:0
+[17-Jun-2022 15:52:22 Europe/Moscow] PHP   2. imagecopyresampled($dst_im = resource(1) of type (gd), $src_im = FALSE, $dst_x = 0, $dst_y = 0, $src_x = 0, $src_y = 0, $dst_w = 2880, $dst_h = 1254, $src_w = NULL, $src_h = NULL) /var/www/bitrix/test.php:12
+[30-Jun-2022 20:41:05 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /var/www/bitrix/index.php on line 10
+[30-Jun-2022 20:41:56 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /var/www/bitrix/index.php on line 10
+[30-Jun-2022 20:42:37 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /var/www/bitrix/index.php on line 2
+[03-Aug-2022 07:23:47 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$source' (T_VARIABLE) in /var/www/bitrix/test.php on line 11
+[03-Aug-2022 07:29:32 Europe/Moscow] PHP Warning:  require(/vendor/autoload.php): failed to open stream: No such file or directory in /var/www/bitrix/test.php on line 3
+[03-Aug-2022 07:29:32 Europe/Moscow] PHP Stack trace:
+[03-Aug-2022 07:29:32 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/test.php:0
+[03-Aug-2022 07:29:32 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/bitrix/test.php on line 3
+[03-Aug-2022 07:29:32 Europe/Moscow] PHP Stack trace:
+[03-Aug-2022 07:29:32 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/test.php:0
+[03-Aug-2022 07:29:36 Europe/Moscow] PHP Warning:  require(/vendor/autoload.php): failed to open stream: No such file or directory in /var/www/bitrix/test.php on line 3
+[03-Aug-2022 07:29:36 Europe/Moscow] PHP Stack trace:
+[03-Aug-2022 07:29:36 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/test.php:0
+[03-Aug-2022 07:29:36 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/vendor/autoload.php' (include_path='.:/usr/share/php') in /var/www/bitrix/test.php on line 3
+[03-Aug-2022 07:29:36 Europe/Moscow] PHP Stack trace:
+[03-Aug-2022 07:29:36 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/test.php:0
+[03-Aug-2022 07:29:43 Europe/Moscow] PHP Fatal error:  Uncaught WebPConvert\Exceptions\InvalidInput\TargetNotFoundException: source file was not found in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php:71
+Stack trace:
+#0 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php(85): WebPConvert\Helpers\PathChecker::checkAbsolutePathAndExists()
+#1 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebP.php(82): WebPConvert\Helpers\PathChecker::checkSourcePath()
+#2 [internal function]: WebPConvert\Serve\ServeConvertedWebP::serveOriginal()
+#3 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebPWithErrorHandling.php(78): call_user_func()
+#4 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebPWithErrorHandling.php(156): WebPConvert\Serve\ServeConvertedWebPWithErrorHandling::performFailAction()
+#5 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/WebPConvert.php(82): WebPConvert\Serve\ServeConvertedWebPWithErrorHandling::serve()
+#6 /var/www/bitrix/test.php(12): WebP in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php on line 71
+[03-Aug-2022 07:30:12 Europe/Moscow] PHP Fatal error:  Uncaught WebPConvert\Exceptions\InvalidInput\TargetNotFoundException: source file was not found in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php:71
+Stack trace:
+#0 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php(85): WebPConvert\Helpers\PathChecker::checkAbsolutePathAndExists()
+#1 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebP.php(82): WebPConvert\Helpers\PathChecker::checkSourcePath()
+#2 [internal function]: WebPConvert\Serve\ServeConvertedWebP::serveOriginal()
+#3 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebPWithErrorHandling.php(78): call_user_func()
+#4 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebPWithErrorHandling.php(156): WebPConvert\Serve\ServeConvertedWebPWithErrorHandling::performFailAction()
+#5 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/WebPConvert.php(81): WebPConvert\Serve\ServeConvertedWebPWithErrorHandling::serve()
+#6 /var/www/bitrix/test.php(12): WebP in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php on line 71
+[03-Aug-2022 07:31:16 Europe/Moscow] PHP Fatal error:  Uncaught WebPConvert\Exceptions\InvalidInput\TargetNotFoundException: source file was not found in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php:71
+Stack trace:
+#0 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php(85): WebPConvert\Helpers\PathChecker::checkAbsolutePathAndExists()
+#1 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebP.php(82): WebPConvert\Helpers\PathChecker::checkSourcePath()
+#2 [internal function]: WebPConvert\Serve\ServeConvertedWebP::serveOriginal()
+#3 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebPWithErrorHandling.php(78): call_user_func()
+#4 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebPWithErrorHandling.php(156): WebPConvert\Serve\ServeConvertedWebPWithErrorHandling::performFailAction()
+#5 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/WebPConvert.php(81): WebPConvert\Serve\ServeConvertedWebPWithErrorHandling::serve()
+#6 /var/www/bitrix/test.php(12): WebP in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php on line 71
+[03-Aug-2022 07:31:17 Europe/Moscow] PHP Fatal error:  Uncaught WebPConvert\Exceptions\InvalidInput\TargetNotFoundException: source file was not found in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php:71
+Stack trace:
+#0 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php(85): WebPConvert\Helpers\PathChecker::checkAbsolutePathAndExists()
+#1 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebP.php(82): WebPConvert\Helpers\PathChecker::checkSourcePath()
+#2 [internal function]: WebPConvert\Serve\ServeConvertedWebP::serveOriginal()
+#3 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebPWithErrorHandling.php(78): call_user_func()
+#4 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebPWithErrorHandling.php(156): WebPConvert\Serve\ServeConvertedWebPWithErrorHandling::performFailAction()
+#5 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/WebPConvert.php(81): WebPConvert\Serve\ServeConvertedWebPWithErrorHandling::serve()
+#6 /var/www/bitrix/test.php(12): WebP in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php on line 71
+[03-Aug-2022 07:31:17 Europe/Moscow] PHP Fatal error:  Uncaught WebPConvert\Exceptions\InvalidInput\TargetNotFoundException: source file was not found in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php:71
+Stack trace:
+#0 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php(85): WebPConvert\Helpers\PathChecker::checkAbsolutePathAndExists()
+#1 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebP.php(82): WebPConvert\Helpers\PathChecker::checkSourcePath()
+#2 [internal function]: WebPConvert\Serve\ServeConvertedWebP::serveOriginal()
+#3 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebPWithErrorHandling.php(78): call_user_func()
+#4 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebPWithErrorHandling.php(156): WebPConvert\Serve\ServeConvertedWebPWithErrorHandling::performFailAction()
+#5 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/WebPConvert.php(81): WebPConvert\Serve\ServeConvertedWebPWithErrorHandling::serve()
+#6 /var/www/bitrix/test.php(12): WebP in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php on line 71
+[03-Aug-2022 07:31:18 Europe/Moscow] PHP Fatal error:  Uncaught WebPConvert\Exceptions\InvalidInput\TargetNotFoundException: source file was not found in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php:71
+Stack trace:
+#0 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php(85): WebPConvert\Helpers\PathChecker::checkAbsolutePathAndExists()
+#1 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebP.php(82): WebPConvert\Helpers\PathChecker::checkSourcePath()
+#2 [internal function]: WebPConvert\Serve\ServeConvertedWebP::serveOriginal()
+#3 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebPWithErrorHandling.php(78): call_user_func()
+#4 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebPWithErrorHandling.php(156): WebPConvert\Serve\ServeConvertedWebPWithErrorHandling::performFailAction()
+#5 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/WebPConvert.php(81): WebPConvert\Serve\ServeConvertedWebPWithErrorHandling::serve()
+#6 /var/www/bitrix/test.php(12): WebP in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php on line 71
+[03-Aug-2022 07:31:18 Europe/Moscow] PHP Fatal error:  Uncaught WebPConvert\Exceptions\InvalidInput\TargetNotFoundException: source file was not found in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php:71
+Stack trace:
+#0 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php(85): WebPConvert\Helpers\PathChecker::checkAbsolutePathAndExists()
+#1 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebP.php(82): WebPConvert\Helpers\PathChecker::checkSourcePath()
+#2 [internal function]: WebPConvert\Serve\ServeConvertedWebP::serveOriginal()
+#3 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebPWithErrorHandling.php(78): call_user_func()
+#4 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebPWithErrorHandling.php(156): WebPConvert\Serve\ServeConvertedWebPWithErrorHandling::performFailAction()
+#5 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/WebPConvert.php(81): WebPConvert\Serve\ServeConvertedWebPWithErrorHandling::serve()
+#6 /var/www/bitrix/test.php(12): WebP in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php on line 71
+[03-Aug-2022 07:31:41 Europe/Moscow] PHP Fatal error:  Uncaught WebPConvert\Exceptions\InvalidInput\TargetNotFoundException: source file was not found in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php:71
+Stack trace:
+#0 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php(85): WebPConvert\Helpers\PathChecker::checkAbsolutePathAndExists()
+#1 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(47): WebPConvert\Helpers\PathChecker::checkSourcePath()
+#2 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(58): WebPConvert\Helpers\InputValidator::checkSource()
+#3 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebP.php(143): WebPConvert\Helpers\InputValidator::checkSourceAndDestination()
+#4 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/WebPConvert.php(83): WebPConvert\Serve\ServeConvertedWebP::serve()
+#5 /var/www/bitrix/test.php(11): WebPConvert\WebPConvert::serveConverted()
+#6 {main}
+  thrown in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php on line 71
+[03-Aug-2022 07:31:53 Europe/Moscow] PHP Fatal error:  Uncaught WebPConvert\Exceptions\InvalidInput\TargetNotFoundException: source file was not found in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php:71
+Stack trace:
+#0 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php(85): WebPConvert\Helpers\PathChecker::checkAbsolutePathAndExists()
+#1 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(47): WebPConvert\Helpers\PathChecker::checkSourcePath()
+#2 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(58): WebPConvert\Helpers\InputValidator::checkSource()
+#3 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebP.php(143): WebPConvert\Helpers\InputValidator::checkSourceAndDestination()
+#4 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/WebPConvert.php(83): WebPConvert\Serve\ServeConvertedWebP::serve()
+#5 /var/www/bitrix/test.php(11): WebPConvert\WebPConvert::serveConverted()
+#6 {main}
+  thrown in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php on line 71
+[03-Aug-2022 07:32:51 Europe/Moscow] PHP Fatal error:  Uncaught WebPConvert\Exceptions\InvalidInput\TargetNotFoundException: source file was not found in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php:71
+Stack trace:
+#0 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php(85): WebPConvert\Helpers\PathChecker::checkAbsolutePathAndExists()
+#1 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(47): WebPConvert\Helpers\PathChecker::checkSourcePath()
+#2 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(58): WebPConvert\Helpers\InputValidator::checkSource()
+#3 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebP.php(143): WebPConvert\Helpers\InputValidator::checkSourceAndDestination()
+#4 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/WebPConvert.php(83): WebPConvert\Serve\ServeConvertedWebP::serve()
+#5 /var/www/bitrix/test.php(11): WebPConvert\WebPConvert::serveConverted()
+#6 {main}
+  thrown in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php on line 71
+[03-Aug-2022 07:32:51 Europe/Moscow] PHP Fatal error:  Uncaught WebPConvert\Exceptions\InvalidInput\TargetNotFoundException: source file was not found in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php:71
+Stack trace:
+#0 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php(85): WebPConvert\Helpers\PathChecker::checkAbsolutePathAndExists()
+#1 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(47): WebPConvert\Helpers\PathChecker::checkSourcePath()
+#2 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(58): WebPConvert\Helpers\InputValidator::checkSource()
+#3 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebP.php(143): WebPConvert\Helpers\InputValidator::checkSourceAndDestination()
+#4 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/WebPConvert.php(83): WebPConvert\Serve\ServeConvertedWebP::serve()
+#5 /var/www/bitrix/test.php(11): WebPConvert\WebPConvert::serveConverted()
+#6 {main}
+  thrown in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php on line 71
+[03-Aug-2022 07:32:51 Europe/Moscow] PHP Fatal error:  Uncaught WebPConvert\Exceptions\InvalidInput\TargetNotFoundException: source file was not found in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php:71
+Stack trace:
+#0 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php(85): WebPConvert\Helpers\PathChecker::checkAbsolutePathAndExists()
+#1 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(47): WebPConvert\Helpers\PathChecker::checkSourcePath()
+#2 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(58): WebPConvert\Helpers\InputValidator::checkSource()
+#3 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebP.php(143): WebPConvert\Helpers\InputValidator::checkSourceAndDestination()
+#4 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/WebPConvert.php(83): WebPConvert\Serve\ServeConvertedWebP::serve()
+#5 /var/www/bitrix/test.php(11): WebPConvert\WebPConvert::serveConverted()
+#6 {main}
+  thrown in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php on line 71
+[03-Aug-2022 07:32:52 Europe/Moscow] PHP Fatal error:  Uncaught WebPConvert\Exceptions\InvalidInput\TargetNotFoundException: source file was not found in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php:71
+Stack trace:
+#0 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php(85): WebPConvert\Helpers\PathChecker::checkAbsolutePathAndExists()
+#1 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(47): WebPConvert\Helpers\PathChecker::checkSourcePath()
+#2 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(58): WebPConvert\Helpers\InputValidator::checkSource()
+#3 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebP.php(143): WebPConvert\Helpers\InputValidator::checkSourceAndDestination()
+#4 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/WebPConvert.php(83): WebPConvert\Serve\ServeConvertedWebP::serve()
+#5 /var/www/bitrix/test.php(11): WebPConvert\WebPConvert::serveConverted()
+#6 {main}
+  thrown in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php on line 71
+[03-Aug-2022 07:32:52 Europe/Moscow] PHP Fatal error:  Uncaught WebPConvert\Exceptions\InvalidInput\TargetNotFoundException: source file was not found in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php:71
+Stack trace:
+#0 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php(85): WebPConvert\Helpers\PathChecker::checkAbsolutePathAndExists()
+#1 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(47): WebPConvert\Helpers\PathChecker::checkSourcePath()
+#2 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(58): WebPConvert\Helpers\InputValidator::checkSource()
+#3 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebP.php(143): WebPConvert\Helpers\InputValidator::checkSourceAndDestination()
+#4 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/WebPConvert.php(83): WebPConvert\Serve\ServeConvertedWebP::serve()
+#5 /var/www/bitrix/test.php(11): WebPConvert\WebPConvert::serveConverted()
+#6 {main}
+  thrown in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php on line 71
+[03-Aug-2022 07:32:52 Europe/Moscow] PHP Fatal error:  Uncaught WebPConvert\Exceptions\InvalidInput\TargetNotFoundException: source file was not found in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php:71
+Stack trace:
+#0 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php(85): WebPConvert\Helpers\PathChecker::checkAbsolutePathAndExists()
+#1 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(47): WebPConvert\Helpers\PathChecker::checkSourcePath()
+#2 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(58): WebPConvert\Helpers\InputValidator::checkSource()
+#3 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebP.php(143): WebPConvert\Helpers\InputValidator::checkSourceAndDestination()
+#4 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/WebPConvert.php(83): WebPConvert\Serve\ServeConvertedWebP::serve()
+#5 /var/www/bitrix/test.php(11): WebPConvert\WebPConvert::serveConverted()
+#6 {main}
+  thrown in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php on line 71
+[03-Aug-2022 07:32:52 Europe/Moscow] PHP Fatal error:  Uncaught WebPConvert\Exceptions\InvalidInput\TargetNotFoundException: source file was not found in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php:71
+Stack trace:
+#0 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php(85): WebPConvert\Helpers\PathChecker::checkAbsolutePathAndExists()
+#1 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(47): WebPConvert\Helpers\PathChecker::checkSourcePath()
+#2 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(58): WebPConvert\Helpers\InputValidator::checkSource()
+#3 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebP.php(143): WebPConvert\Helpers\InputValidator::checkSourceAndDestination()
+#4 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/WebPConvert.php(83): WebPConvert\Serve\ServeConvertedWebP::serve()
+#5 /var/www/bitrix/test.php(11): WebPConvert\WebPConvert::serveConverted()
+#6 {main}
+  thrown in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php on line 71
+[03-Aug-2022 07:32:52 Europe/Moscow] PHP Fatal error:  Uncaught WebPConvert\Exceptions\InvalidInput\TargetNotFoundException: source file was not found in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php:71
+Stack trace:
+#0 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php(85): WebPConvert\Helpers\PathChecker::checkAbsolutePathAndExists()
+#1 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(47): WebPConvert\Helpers\PathChecker::checkSourcePath()
+#2 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(58): WebPConvert\Helpers\InputValidator::checkSource()
+#3 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebP.php(143): WebPConvert\Helpers\InputValidator::checkSourceAndDestination()
+#4 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/WebPConvert.php(83): WebPConvert\Serve\ServeConvertedWebP::serve()
+#5 /var/www/bitrix/test.php(11): WebPConvert\WebPConvert::serveConverted()
+#6 {main}
+  thrown in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php on line 71
+[03-Aug-2022 07:35:08 Europe/Moscow] PHP Fatal error:  Uncaught WebPConvert\Exceptions\InvalidInput\TargetNotFoundException: source file was not found in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php:71
+Stack trace:
+#0 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php(85): WebPConvert\Helpers\PathChecker::checkAbsolutePathAndExists()
+#1 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(47): WebPConvert\Helpers\PathChecker::checkSourcePath()
+#2 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/InputValidator.php(58): WebPConvert\Helpers\InputValidator::checkSource()
+#3 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Serve/ServeConvertedWebP.php(143): WebPConvert\Helpers\InputValidator::checkSourceAndDestination()
+#4 /var/www/bitrix/vendor/rosell-dk/webp-convert/src/WebPConvert.php(83): WebPConvert\Serve\ServeConvertedWebP::serve()
+#5 /var/www/bitrix/test.php(10): WebPConvert\WebPConvert::serveConverted()
+#6 {main}
+  thrown in /var/www/bitrix/vendor/rosell-dk/webp-convert/src/Helpers/PathChecker.php on line 71
+[03-Aug-2022 10:45:06 Europe/Moscow] PHP Parse error:  syntax error, unexpected end of file in /var/www/bitrix/test.php on line 10
+[29-Aug-2022 16:08:39 Europe/Moscow] PHP Notice:  Undefined index: id in /var/www/bitrix/api/v2/MrTradeIn.php on line 39
+[29-Aug-2022 16:08:39 Europe/Moscow] PHP Stack trace:
+[29-Aug-2022 16:08:39 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/api/v2/MrTradeIn.php:0
+[29-Aug-2022 16:10:27 Europe/Moscow] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/bitrix/api/v2/MrTradeIn.php on line 4
+[29-Aug-2022 16:15:30 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'Cpeople\Classes\Block\Getter' not found in /var/www/bitrix/api/v2/MrTradeIn.php:27
+Stack trace:
+#0 /var/www/bitrix/api/v2/MrTradeIn.php(19): MrGroup\Form\MrTradeIn->getProjects()
+#1 /var/www/bitrix/api/v2/MrTradeIn.php(43): MrGroup\Form\MrTradeIn->init()
+#2 {main}
+  thrown in /var/www/bitrix/api/v2/MrTradeIn.php on line 27
+[29-Aug-2022 16:15:46 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'Cpeople\Classes\Block\Getter' not found in /var/www/bitrix/api/v2/MrTradeIn.php:27
+Stack trace:
+#0 /var/www/bitrix/api/v2/MrTradeIn.php(19): MrGroup\Form\MrTradeIn->getProjects()
+#1 /var/www/bitrix/api/v2/MrTradeIn.php(43): MrGroup\Form\MrTradeIn->init()
+#2 {main}
+  thrown in /var/www/bitrix/api/v2/MrTradeIn.php on line 27
+[29-Aug-2022 16:15:46 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'Cpeople\Classes\Block\Getter' not found in /var/www/bitrix/api/v2/MrTradeIn.php:27
+Stack trace:
+#0 /var/www/bitrix/api/v2/MrTradeIn.php(19): MrGroup\Form\MrTradeIn->getProjects()
+#1 /var/www/bitrix/api/v2/MrTradeIn.php(43): MrGroup\Form\MrTradeIn->init()
+#2 {main}
+  thrown in /var/www/bitrix/api/v2/MrTradeIn.php on line 27
+[29-Aug-2022 16:15:47 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'Cpeople\Classes\Block\Getter' not found in /var/www/bitrix/api/v2/MrTradeIn.php:27
+Stack trace:
+#0 /var/www/bitrix/api/v2/MrTradeIn.php(19): MrGroup\Form\MrTradeIn->getProjects()
+#1 /var/www/bitrix/api/v2/MrTradeIn.php(43): MrGroup\Form\MrTradeIn->init()
+#2 {main}
+  thrown in /var/www/bitrix/api/v2/MrTradeIn.php on line 27
+[29-Aug-2022 16:15:47 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'Cpeople\Classes\Block\Getter' not found in /var/www/bitrix/api/v2/MrTradeIn.php:27
+Stack trace:
+#0 /var/www/bitrix/api/v2/MrTradeIn.php(19): MrGroup\Form\MrTradeIn->getProjects()
+#1 /var/www/bitrix/api/v2/MrTradeIn.php(43): MrGroup\Form\MrTradeIn->init()
+#2 {main}
+  thrown in /var/www/bitrix/api/v2/MrTradeIn.php on line 27
+[29-Aug-2022 16:16:45 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'MrGroup\Form\MrGroup\Form\MrTradeIn' not found in /var/www/bitrix/api/v2/MrTradeIn.php:43
+Stack trace:
+#0 {main}
+  thrown in /var/www/bitrix/api/v2/MrTradeIn.php on line 43
+[29-Aug-2022 16:16:57 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'Cpeople\Classes\Block\Getter' not found in /var/www/bitrix/api/v2/MrTradeIn.php:27
+Stack trace:
+#0 /var/www/bitrix/api/v2/MrTradeIn.php(19): MrGroup\Form\MrTradeIn->getProjects()
+#1 /var/www/bitrix/api/v2/MrTradeIn.php(43): MrGroup\Form\MrTradeIn->init()
+#2 {main}
+  thrown in /var/www/bitrix/api/v2/MrTradeIn.php on line 27
+[29-Aug-2022 16:17:49 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'Cpeople\Classes\Block\Getter' not found in /var/www/bitrix/api/v2/MrTradeIn.php:27
+Stack trace:
+#0 /var/www/bitrix/api/v2/MrTradeIn.php(19): MrGroup\Form\MrTradeIn->getProjects()
+#1 /var/www/bitrix/api/v2/MrTradeIn.php(43): MrGroup\Form\MrTradeIn->init()
+#2 {main}
+  thrown in /var/www/bitrix/api/v2/MrTradeIn.php on line 27
+[29-Aug-2022 16:17:50 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'Cpeople\Classes\Block\Getter' not found in /var/www/bitrix/api/v2/MrTradeIn.php:27
+Stack trace:
+#0 /var/www/bitrix/api/v2/MrTradeIn.php(19): MrGroup\Form\MrTradeIn->getProjects()
+#1 /var/www/bitrix/api/v2/MrTradeIn.php(43): MrGroup\Form\MrTradeIn->init()
+#2 {main}
+  thrown in /var/www/bitrix/api/v2/MrTradeIn.php on line 27
+[29-Aug-2022 16:17:50 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'Cpeople\Classes\Block\Getter' not found in /var/www/bitrix/api/v2/MrTradeIn.php:27
+Stack trace:
+#0 /var/www/bitrix/api/v2/MrTradeIn.php(19): MrGroup\Form\MrTradeIn->getProjects()
+#1 /var/www/bitrix/api/v2/MrTradeIn.php(43): MrGroup\Form\MrTradeIn->init()
+#2 {main}
+  thrown in /var/www/bitrix/api/v2/MrTradeIn.php on line 27
+[29-Aug-2022 16:17:50 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'Cpeople\Classes\Block\Getter' not found in /var/www/bitrix/api/v2/MrTradeIn.php:27
+Stack trace:
+#0 /var/www/bitrix/api/v2/MrTradeIn.php(19): MrGroup\Form\MrTradeIn->getProjects()
+#1 /var/www/bitrix/api/v2/MrTradeIn.php(43): MrGroup\Form\MrTradeIn->init()
+#2 {main}
+  thrown in /var/www/bitrix/api/v2/MrTradeIn.php on line 27
+[29-Aug-2022 16:17:50 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'Cpeople\Classes\Block\Getter' not found in /var/www/bitrix/api/v2/MrTradeIn.php:27
+Stack trace:
+#0 /var/www/bitrix/api/v2/MrTradeIn.php(19): MrGroup\Form\MrTradeIn->getProjects()
+#1 /var/www/bitrix/api/v2/MrTradeIn.php(43): MrGroup\Form\MrTradeIn->init()
+#2 {main}
+  thrown in /var/www/bitrix/api/v2/MrTradeIn.php on line 27
+[29-Aug-2022 16:17:50 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'Cpeople\Classes\Block\Getter' not found in /var/www/bitrix/api/v2/MrTradeIn.php:27
+Stack trace:
+#0 /var/www/bitrix/api/v2/MrTradeIn.php(19): MrGroup\Form\MrTradeIn->getProjects()
+#1 /var/www/bitrix/api/v2/MrTradeIn.php(43): MrGroup\Form\MrTradeIn->init()
+#2 {main}
+  thrown in /var/www/bitrix/api/v2/MrTradeIn.php on line 27
+[29-Aug-2022 16:17:51 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'Cpeople\Classes\Block\Getter' not found in /var/www/bitrix/api/v2/MrTradeIn.php:27
+Stack trace:
+#0 /var/www/bitrix/api/v2/MrTradeIn.php(19): MrGroup\Form\MrTradeIn->getProjects()
+#1 /var/www/bitrix/api/v2/MrTradeIn.php(43): MrGroup\Form\MrTradeIn->init()
+#2 {main}
+  thrown in /var/www/bitrix/api/v2/MrTradeIn.php on line 27
+[29-Aug-2022 16:17:51 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'Cpeople\Classes\Block\Getter' not found in /var/www/bitrix/api/v2/MrTradeIn.php:27
+Stack trace:
+#0 /var/www/bitrix/api/v2/MrTradeIn.php(19): MrGroup\Form\MrTradeIn->getProjects()
+#1 /var/www/bitrix/api/v2/MrTradeIn.php(43): MrGroup\Form\MrTradeIn->init()
+#2 {main}
+  thrown in /var/www/bitrix/api/v2/MrTradeIn.php on line 27
+[29-Aug-2022 16:17:51 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'Cpeople\Classes\Block\Getter' not found in /var/www/bitrix/api/v2/MrTradeIn.php:27
+Stack trace:
+#0 /var/www/bitrix/api/v2/MrTradeIn.php(19): MrGroup\Form\MrTradeIn->getProjects()
+#1 /var/www/bitrix/api/v2/MrTradeIn.php(43): MrGroup\Form\MrTradeIn->init()
+#2 {main}
+  thrown in /var/www/bitrix/api/v2/MrTradeIn.php on line 27
+[29-Aug-2022 16:17:51 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'Cpeople\Classes\Block\Getter' not found in /var/www/bitrix/api/v2/MrTradeIn.php:27
+Stack trace:
+#0 /var/www/bitrix/api/v2/MrTradeIn.php(19): MrGroup\Form\MrTradeIn->getProjects()
+#1 /var/www/bitrix/api/v2/MrTradeIn.php(43): MrGroup\Form\MrTradeIn->init()
+#2 {main}
+  thrown in /var/www/bitrix/api/v2/MrTradeIn.php on line 27
+[29-Aug-2022 16:17:51 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'Cpeople\Classes\Block\Getter' not found in /var/www/bitrix/api/v2/MrTradeIn.php:27
+Stack trace:
+#0 /var/www/bitrix/api/v2/MrTradeIn.php(19): MrGroup\Form\MrTradeIn->getProjects()
+#1 /var/www/bitrix/api/v2/MrTradeIn.php(43): MrGroup\Form\MrTradeIn->init()
+#2 {main}
+  thrown in /var/www/bitrix/api/v2/MrTradeIn.php on line 27
+[29-Aug-2022 16:17:59 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'Cpeople\Classes\Block\Getter' not found in /var/www/bitrix/api/v2/MrTradeIn.php:27
+Stack trace:
+#0 /var/www/bitrix/api/v2/MrTradeIn.php(19): MrGroup\Form\MrTradeIn->getProjects()
+#1 /var/www/bitrix/api/v2/MrTradeIn.php(43): MrGroup\Form\MrTradeIn->init()
+#2 {main}
+  thrown in /var/www/bitrix/api/v2/MrTradeIn.php on line 27
+[29-Aug-2022 16:21:11 Europe/Moscow] PHP Fatal error:  ob_start(): Cannot use output buffering in output buffering display handlers in /var/www/bitrix/local/php_interface/init-public.php on line 38
+[29-Aug-2022 16:21:11 Europe/Moscow] PHP Stack trace:
+[29-Aug-2022 16:21:11 Europe/Moscow] PHP   1. CAllMain::{closure:/var/www/bitrix/bitrix/modules/main/classes/general/main.php:3409-3416}() /var/www/bitrix/bitrix/modules/main/classes/general/main.php:0
+[29-Aug-2022 16:21:11 Europe/Moscow] PHP   2. ob_end_flush() /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3414
+[29-Aug-2022 16:21:11 Europe/Moscow] PHP   3. CAllMain->EndBufferContent($content = '<pre>Array\n(\n    [45589] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [TIMESTAMP_', 9) /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3414
+[29-Aug-2022 16:21:11 Europe/Moscow] PHP   4. ExecuteModuleEventEx($arEvent = ['FROM_MODULE_ID' => 'main', 'MESSAGE_ID' => 'OnEndBufferContent', 'CALLBACK' => class Closure { virtual $closure = "{closure}", public $parameter = [...] }, 'SORT' => 100, 'FULL_PATH' => FALSE, 'VERSION' => 1, 'TO_NAME' => 'callable'], $arParams = [0 => '<pre>Array\n(\n    [45589] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [TIMESTAMP_']) /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3192
+[29-Aug-2022 16:21:11 Europe/Moscow] PHP   5. {closure:/var/www/bitrix/local/php_interface/init-public.php:4-12}($content = '<pre>Array\n(\n    [45589] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [TIMESTAMP_') /var/www/bitrix/bitrix/modules/main/classes/general/module.php:475
+[29-Aug-2022 16:21:11 Europe/Moscow] PHP   6. parse_content_to_replace_marks($tpl = '<pre>Array\n(\n    [45589] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [TIMESTAMP_', $count = 2) /var/www/bitrix/local/php_interface/init-public.php:8
+[29-Aug-2022 16:21:11 Europe/Moscow] PHP   7. preg_replace_callback($regex = '/\\{([a-zA-Z0-9][^}]+)\\}/U', $callback = class Closure { virtual $closure = "{closure}", public $parameter = ['$matches' => '<required>'] }, $subject = '<pre>Array\n(\n    [45589] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [TIMESTAMP_') /var/www/bitrix/local/php_interface/init-public.php:143
+[29-Aug-2022 16:21:11 Europe/Moscow] PHP   8. {closure:/var/www/bitrix/local/php_interface/init-public.php:126-143}($matches = [0 => '{picture 63529}', 1 => 'picture 63529']) /var/www/bitrix/local/php_interface/init-public.php:143
+[29-Aug-2022 16:21:11 Europe/Moscow] PHP   9. template_picture($arParams = ['ID' => '63529']) /var/www/bitrix/local/php_interface/init-public.php:142
+[29-Aug-2022 16:21:11 Europe/Moscow] PHP  10. ob_start() /var/www/bitrix/local/php_interface/init-public.php:38
+[29-Aug-2022 16:21:25 Europe/Moscow] PHP Fatal error:  ob_start(): Cannot use output buffering in output buffering display handlers in /var/www/bitrix/local/php_interface/init-public.php on line 38
+[29-Aug-2022 16:21:25 Europe/Moscow] PHP Stack trace:
+[29-Aug-2022 16:21:25 Europe/Moscow] PHP   1. CAllMain::{closure:/var/www/bitrix/bitrix/modules/main/classes/general/main.php:3409-3416}() /var/www/bitrix/bitrix/modules/main/classes/general/main.php:0
+[29-Aug-2022 16:21:25 Europe/Moscow] PHP   2. ob_end_flush() /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3414
+[29-Aug-2022 16:21:25 Europe/Moscow] PHP   3. CAllMain->EndBufferContent($content = '<pre>Array\n(\n    [45589] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [TIMESTAMP_', 9) /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3414
+[29-Aug-2022 16:21:25 Europe/Moscow] PHP   4. ExecuteModuleEventEx($arEvent = ['FROM_MODULE_ID' => 'main', 'MESSAGE_ID' => 'OnEndBufferContent', 'CALLBACK' => class Closure { virtual $closure = "{closure}", public $parameter = [...] }, 'SORT' => 100, 'FULL_PATH' => FALSE, 'VERSION' => 1, 'TO_NAME' => 'callable'], $arParams = [0 => '<pre>Array\n(\n    [45589] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [TIMESTAMP_']) /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3192
+[29-Aug-2022 16:21:25 Europe/Moscow] PHP   5. {closure:/var/www/bitrix/local/php_interface/init-public.php:4-12}($content = '<pre>Array\n(\n    [45589] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [TIMESTAMP_') /var/www/bitrix/bitrix/modules/main/classes/general/module.php:475
+[29-Aug-2022 16:21:25 Europe/Moscow] PHP   6. parse_content_to_replace_marks($tpl = '<pre>Array\n(\n    [45589] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [TIMESTAMP_', $count = 2) /var/www/bitrix/local/php_interface/init-public.php:8
+[29-Aug-2022 16:21:25 Europe/Moscow] PHP   7. preg_replace_callback($regex = '/\\{([a-zA-Z0-9][^}]+)\\}/U', $callback = class Closure { virtual $closure = "{closure}", public $parameter = ['$matches' => '<required>'] }, $subject = '<pre>Array\n(\n    [45589] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [TIMESTAMP_') /var/www/bitrix/local/php_interface/init-public.php:143
+[29-Aug-2022 16:21:25 Europe/Moscow] PHP   8. {closure:/var/www/bitrix/local/php_interface/init-public.php:126-143}($matches = [0 => '{picture 63529}', 1 => 'picture 63529']) /var/www/bitrix/local/php_interface/init-public.php:143
+[29-Aug-2022 16:21:25 Europe/Moscow] PHP   9. template_picture($arParams = ['ID' => '63529']) /var/www/bitrix/local/php_interface/init-public.php:142
+[29-Aug-2022 16:21:25 Europe/Moscow] PHP  10. ob_start() /var/www/bitrix/local/php_interface/init-public.php:38
+[29-Aug-2022 16:21:42 Europe/Moscow] PHP Fatal error:  ob_start(): Cannot use output buffering in output buffering display handlers in /var/www/bitrix/local/php_interface/init-public.php on line 38
+[29-Aug-2022 16:21:42 Europe/Moscow] PHP Stack trace:
+[29-Aug-2022 16:21:42 Europe/Moscow] PHP   1. CAllMain::{closure:/var/www/bitrix/bitrix/modules/main/classes/general/main.php:3409-3416}() /var/www/bitrix/bitrix/modules/main/classes/general/main.php:0
+[29-Aug-2022 16:21:42 Europe/Moscow] PHP   2. ob_end_flush() /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3414
+[29-Aug-2022 16:21:42 Europe/Moscow] PHP   3. CAllMain->EndBufferContent($content = '<pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [TIMESTAMP_X] =', 9) /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3414
+[29-Aug-2022 16:21:42 Europe/Moscow] PHP   4. ExecuteModuleEventEx($arEvent = ['FROM_MODULE_ID' => 'main', 'MESSAGE_ID' => 'OnEndBufferContent', 'CALLBACK' => class Closure { virtual $closure = "{closure}", public $parameter = [...] }, 'SORT' => 100, 'FULL_PATH' => FALSE, 'VERSION' => 1, 'TO_NAME' => 'callable'], $arParams = [0 => '<pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [TIMESTAMP_X] =']) /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3192
+[29-Aug-2022 16:21:42 Europe/Moscow] PHP   5. {closure:/var/www/bitrix/local/php_interface/init-public.php:4-12}($content = '<pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [TIMESTAMP_X] =') /var/www/bitrix/bitrix/modules/main/classes/general/module.php:475
+[29-Aug-2022 16:21:42 Europe/Moscow] PHP   6. parse_content_to_replace_marks($tpl = '<pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [TIMESTAMP_X] =', $count = 2) /var/www/bitrix/local/php_interface/init-public.php:8
+[29-Aug-2022 16:21:42 Europe/Moscow] PHP   7. preg_replace_callback($regex = '/\\{([a-zA-Z0-9][^}]+)\\}/U', $callback = class Closure { virtual $closure = "{closure}", public $parameter = ['$matches' => '<required>'] }, $subject = '<pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [TIMESTAMP_X] =') /var/www/bitrix/local/php_interface/init-public.php:143
+[29-Aug-2022 16:21:42 Europe/Moscow] PHP   8. {closure:/var/www/bitrix/local/php_interface/init-public.php:126-143}($matches = [0 => '{picture 63529}', 1 => 'picture 63529']) /var/www/bitrix/local/php_interface/init-public.php:143
+[29-Aug-2022 16:21:42 Europe/Moscow] PHP   9. template_picture($arParams = ['ID' => '63529']) /var/www/bitrix/local/php_interface/init-public.php:142
+[29-Aug-2022 16:21:42 Europe/Moscow] PHP  10. ob_start() /var/www/bitrix/local/php_interface/init-public.php:38
+[29-Aug-2022 16:34:58 Europe/Moscow] PHP Fatal error:  ob_start(): Cannot use output buffering in output buffering display handlers in /var/www/bitrix/local/php_interface/init-public.php on line 38
+[29-Aug-2022 16:34:58 Europe/Moscow] PHP Stack trace:
+[29-Aug-2022 16:34:58 Europe/Moscow] PHP   1. CAllMain::{closure:/var/www/bitrix/bitrix/modules/main/classes/general/main.php:3409-3416}() /var/www/bitrix/bitrix/modules/main/classes/general/main.php:0
+[29-Aug-2022 16:34:58 Europe/Moscow] PHP   2. ob_end_flush() /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3414
+[29-Aug-2022 16:34:58 Europe/Moscow] PHP   3. CAllMain->EndBufferContent($content = '<pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [TIMESTAMP_X] =', 9) /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3414
+[29-Aug-2022 16:34:58 Europe/Moscow] PHP   4. ExecuteModuleEventEx($arEvent = ['FROM_MODULE_ID' => 'main', 'MESSAGE_ID' => 'OnEndBufferContent', 'CALLBACK' => class Closure { virtual $closure = "{closure}", public $parameter = [...] }, 'SORT' => 100, 'FULL_PATH' => FALSE, 'VERSION' => 1, 'TO_NAME' => 'callable'], $arParams = [0 => '<pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [TIMESTAMP_X] =']) /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3192
+[29-Aug-2022 16:34:58 Europe/Moscow] PHP   5. {closure:/var/www/bitrix/local/php_interface/init-public.php:4-12}($content = '<pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [TIMESTAMP_X] =') /var/www/bitrix/bitrix/modules/main/classes/general/module.php:475
+[29-Aug-2022 16:34:58 Europe/Moscow] PHP   6. parse_content_to_replace_marks($tpl = '<pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [TIMESTAMP_X] =', $count = 2) /var/www/bitrix/local/php_interface/init-public.php:8
+[29-Aug-2022 16:34:58 Europe/Moscow] PHP   7. preg_replace_callback($regex = '/\\{([a-zA-Z0-9][^}]+)\\}/U', $callback = class Closure { virtual $closure = "{closure}", public $parameter = ['$matches' => '<required>'] }, $subject = '<pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [TIMESTAMP_X] =') /var/www/bitrix/local/php_interface/init-public.php:143
+[29-Aug-2022 16:34:58 Europe/Moscow] PHP   8. {closure:/var/www/bitrix/local/php_interface/init-public.php:126-143}($matches = [0 => '{picture 63529}', 1 => 'picture 63529']) /var/www/bitrix/local/php_interface/init-public.php:143
+[29-Aug-2022 16:34:58 Europe/Moscow] PHP   9. template_picture($arParams = ['ID' => '63529']) /var/www/bitrix/local/php_interface/init-public.php:142
+[29-Aug-2022 16:34:58 Europe/Moscow] PHP  10. ob_start() /var/www/bitrix/local/php_interface/init-public.php:38
+[29-Aug-2022 16:35:22 Europe/Moscow] PHP Fatal error:  ob_start(): Cannot use output buffering in output buffering display handlers in /var/www/bitrix/local/php_interface/init-public.php on line 38
+[29-Aug-2022 16:35:22 Europe/Moscow] PHP Stack trace:
+[29-Aug-2022 16:35:22 Europe/Moscow] PHP   1. CAllMain::{closure:/var/www/bitrix/bitrix/modules/main/classes/general/main.php:3409-3416}() /var/www/bitrix/bitrix/modules/main/classes/general/main.php:0
+[29-Aug-2022 16:35:22 Europe/Moscow] PHP   2. ob_end_flush() /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3414
+[29-Aug-2022 16:35:22 Europe/Moscow] PHP   3. CAllMain->EndBufferContent($content = '<pre>123<pre><pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [T', 9) /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3414
+[29-Aug-2022 16:35:22 Europe/Moscow] PHP   4. ExecuteModuleEventEx($arEvent = ['FROM_MODULE_ID' => 'main', 'MESSAGE_ID' => 'OnEndBufferContent', 'CALLBACK' => class Closure { virtual $closure = "{closure}", public $parameter = [...] }, 'SORT' => 100, 'FULL_PATH' => FALSE, 'VERSION' => 1, 'TO_NAME' => 'callable'], $arParams = [0 => '<pre>123<pre><pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [T']) /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3192
+[29-Aug-2022 16:35:23 Europe/Moscow] PHP   5. {closure:/var/www/bitrix/local/php_interface/init-public.php:4-12}($content = '<pre>123<pre><pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [T') /var/www/bitrix/bitrix/modules/main/classes/general/module.php:475
+[29-Aug-2022 16:35:23 Europe/Moscow] PHP   6. parse_content_to_replace_marks($tpl = '<pre>123<pre><pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [T', $count = 2) /var/www/bitrix/local/php_interface/init-public.php:8
+[29-Aug-2022 16:35:23 Europe/Moscow] PHP   7. preg_replace_callback($regex = '/\\{([a-zA-Z0-9][^}]+)\\}/U', $callback = class Closure { virtual $closure = "{closure}", public $parameter = ['$matches' => '<required>'] }, $subject = '<pre>123<pre><pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [T') /var/www/bitrix/local/php_interface/init-public.php:143
+[29-Aug-2022 16:35:23 Europe/Moscow] PHP   8. {closure:/var/www/bitrix/local/php_interface/init-public.php:126-143}($matches = [0 => '{picture 63529}', 1 => 'picture 63529']) /var/www/bitrix/local/php_interface/init-public.php:143
+[29-Aug-2022 16:35:23 Europe/Moscow] PHP   9. template_picture($arParams = ['ID' => '63529']) /var/www/bitrix/local/php_interface/init-public.php:142
+[29-Aug-2022 16:35:23 Europe/Moscow] PHP  10. ob_start() /var/www/bitrix/local/php_interface/init-public.php:38
+[29-Aug-2022 16:35:57 Europe/Moscow] PHP Fatal error:  ob_start(): Cannot use output buffering in output buffering display handlers in /var/www/bitrix/local/php_interface/init-public.php on line 38
+[29-Aug-2022 16:35:57 Europe/Moscow] PHP Stack trace:
+[29-Aug-2022 16:35:57 Europe/Moscow] PHP   1. CAllMain::{closure:/var/www/bitrix/bitrix/modules/main/classes/general/main.php:3409-3416}() /var/www/bitrix/bitrix/modules/main/classes/general/main.php:0
+[29-Aug-2022 16:35:57 Europe/Moscow] PHP   2. ob_end_flush() /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3414
+[29-Aug-2022 16:35:57 Europe/Moscow] PHP   3. CAllMain->EndBufferContent($content = '<pre>123<pre><pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [T', 9) /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3414
+[29-Aug-2022 16:35:57 Europe/Moscow] PHP   4. ExecuteModuleEventEx($arEvent = ['FROM_MODULE_ID' => 'main', 'MESSAGE_ID' => 'OnEndBufferContent', 'CALLBACK' => class Closure { virtual $closure = "{closure}", public $parameter = [...] }, 'SORT' => 100, 'FULL_PATH' => FALSE, 'VERSION' => 1, 'TO_NAME' => 'callable'], $arParams = [0 => '<pre>123<pre><pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [T']) /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3192
+[29-Aug-2022 16:35:57 Europe/Moscow] PHP   5. {closure:/var/www/bitrix/local/php_interface/init-public.php:4-12}($content = '<pre>123<pre><pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [T') /var/www/bitrix/bitrix/modules/main/classes/general/module.php:475
+[29-Aug-2022 16:35:57 Europe/Moscow] PHP   6. parse_content_to_replace_marks($tpl = '<pre>123<pre><pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [T', $count = 2) /var/www/bitrix/local/php_interface/init-public.php:8
+[29-Aug-2022 16:35:57 Europe/Moscow] PHP   7. preg_replace_callback($regex = '/\\{([a-zA-Z0-9][^}]+)\\}/U', $callback = class Closure { virtual $closure = "{closure}", public $parameter = ['$matches' => '<required>'] }, $subject = '<pre>123<pre><pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [T') /var/www/bitrix/local/php_interface/init-public.php:143
+[29-Aug-2022 16:35:57 Europe/Moscow] PHP   8. {closure:/var/www/bitrix/local/php_interface/init-public.php:126-143}($matches = [0 => '{picture 63529}', 1 => 'picture 63529']) /var/www/bitrix/local/php_interface/init-public.php:143
+[29-Aug-2022 16:35:57 Europe/Moscow] PHP   9. template_picture($arParams = ['ID' => '63529']) /var/www/bitrix/local/php_interface/init-public.php:142
+[29-Aug-2022 16:35:57 Europe/Moscow] PHP  10. ob_start() /var/www/bitrix/local/php_interface/init-public.php:38
+[29-Aug-2022 16:36:19 Europe/Moscow] PHP Fatal error:  ob_start(): Cannot use output buffering in output buffering display handlers in /var/www/bitrix/local/php_interface/init-public.php on line 38
+[29-Aug-2022 16:36:19 Europe/Moscow] PHP Stack trace:
+[29-Aug-2022 16:36:19 Europe/Moscow] PHP   1. CAllMain::{closure:/var/www/bitrix/bitrix/modules/main/classes/general/main.php:3409-3416}() /var/www/bitrix/bitrix/modules/main/classes/general/main.php:0
+[29-Aug-2022 16:36:19 Europe/Moscow] PHP   2. ob_end_flush() /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3414
+[29-Aug-2022 16:36:19 Europe/Moscow] PHP   3. CAllMain->EndBufferContent($content = '<pre>123<pre><pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [T', 9) /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3414
+[29-Aug-2022 16:36:19 Europe/Moscow] PHP   4. ExecuteModuleEventEx($arEvent = ['FROM_MODULE_ID' => 'main', 'MESSAGE_ID' => 'OnEndBufferContent', 'CALLBACK' => class Closure { virtual $closure = "{closure}", public $parameter = [...] }, 'SORT' => 100, 'FULL_PATH' => FALSE, 'VERSION' => 1, 'TO_NAME' => 'callable'], $arParams = [0 => '<pre>123<pre><pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [T']) /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3192
+[29-Aug-2022 16:36:19 Europe/Moscow] PHP   5. {closure:/var/www/bitrix/local/php_interface/init-public.php:4-12}($content = '<pre>123<pre><pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [T') /var/www/bitrix/bitrix/modules/main/classes/general/module.php:475
+[29-Aug-2022 16:36:19 Europe/Moscow] PHP   6. parse_content_to_replace_marks($tpl = '<pre>123<pre><pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [T', $count = 2) /var/www/bitrix/local/php_interface/init-public.php:8
+[29-Aug-2022 16:36:19 Europe/Moscow] PHP   7. preg_replace_callback($regex = '/\\{([a-zA-Z0-9][^}]+)\\}/U', $callback = class Closure { virtual $closure = "{closure}", public $parameter = ['$matches' => '<required>'] }, $subject = '<pre>123<pre><pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n                    [T') /var/www/bitrix/local/php_interface/init-public.php:143
+[29-Aug-2022 16:36:19 Europe/Moscow] PHP   8. {closure:/var/www/bitrix/local/php_interface/init-public.php:126-143}($matches = [0 => '{picture 63529}', 1 => 'picture 63529']) /var/www/bitrix/local/php_interface/init-public.php:143
+[29-Aug-2022 16:36:19 Europe/Moscow] PHP   9. template_picture($arParams = ['ID' => '63529']) /var/www/bitrix/local/php_interface/init-public.php:142
+[29-Aug-2022 16:36:19 Europe/Moscow] PHP  10. ob_start() /var/www/bitrix/local/php_interface/init-public.php:38
+[29-Aug-2022 16:36:34 Europe/Moscow] PHP Fatal error:  ob_start(): Cannot use output buffering in output buffering display handlers in /var/www/bitrix/local/php_interface/init-public.php on line 38
+[29-Aug-2022 16:36:34 Europe/Moscow] PHP Stack trace:
+[29-Aug-2022 16:36:34 Europe/Moscow] PHP   1. CAllMain::{closure:/var/www/bitrix/bitrix/modules/main/classes/general/main.php:3409-3416}() /var/www/bitrix/bitrix/modules/main/classes/general/main.php:0
+[29-Aug-2022 16:36:34 Europe/Moscow] PHP   2. ob_end_flush() /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3414
+[29-Aug-2022 16:36:34 Europe/Moscow] PHP   3. CAllMain->EndBufferContent($content = '<pre>123<pre><pre>123<pre><pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n         ', 9) /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3414
+[29-Aug-2022 16:36:34 Europe/Moscow] PHP   4. ExecuteModuleEventEx($arEvent = ['FROM_MODULE_ID' => 'main', 'MESSAGE_ID' => 'OnEndBufferContent', 'CALLBACK' => class Closure { virtual $closure = "{closure}", public $parameter = [...] }, 'SORT' => 100, 'FULL_PATH' => FALSE, 'VERSION' => 1, 'TO_NAME' => 'callable'], $arParams = [0 => '<pre>123<pre><pre>123<pre><pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n         ']) /var/www/bitrix/bitrix/modules/main/classes/general/main.php:3192
+[29-Aug-2022 16:36:34 Europe/Moscow] PHP   5. {closure:/var/www/bitrix/local/php_interface/init-public.php:4-12}($content = '<pre>123<pre><pre>123<pre><pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n         ') /var/www/bitrix/bitrix/modules/main/classes/general/module.php:475
+[29-Aug-2022 16:36:34 Europe/Moscow] PHP   6. parse_content_to_replace_marks($tpl = '<pre>123<pre><pre>123<pre><pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n         ', $count = 2) /var/www/bitrix/local/php_interface/init-public.php:8
+[29-Aug-2022 16:36:34 Europe/Moscow] PHP   7. preg_replace_callback($regex = '/\\{([a-zA-Z0-9][^}]+)\\}/U', $callback = class Closure { virtual $closure = "{closure}", public $parameter = ['$matches' => '<required>'] }, $subject = '<pre>123<pre><pre>123<pre><pre>Array\n(\n    [0] => MrGroup\\Entities\\ProjectItem Object\n        (\n            [thumbFunc:protected] => cp_get_thumb_url\n            [imagesSrc:protected] => Array\n                (\n                )\n\n            [related:protected] => \n            [infoblock:protected] => \n            [data] => Array\n                (\n                    [SORT] => 1\n                    [~SORT] => 1\n                    [ID] => 45589\n                    [~ID] => 45589\n         ') /var/www/bitrix/local/php_interface/init-public.php:143
+[29-Aug-2022 16:36:34 Europe/Moscow] PHP   8. {closure:/var/www/bitrix/local/php_interface/init-public.php:126-143}($matches = [0 => '{picture 63529}', 1 => 'picture 63529']) /var/www/bitrix/local/php_interface/init-public.php:143
+[29-Aug-2022 16:36:34 Europe/Moscow] PHP   9. template_picture($arParams = ['ID' => '63529']) /var/www/bitrix/local/php_interface/init-public.php:142
+[29-Aug-2022 16:36:34 Europe/Moscow] PHP  10. ob_start() /var/www/bitrix/local/php_interface/init-public.php:38
+[29-Aug-2022 16:37:59 Europe/Moscow] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/bitrix/api/v2/MrTradeIn.php on line 4
+[29-Aug-2022 16:50:47 Europe/Moscow] PHP Parse error:  syntax error, unexpected ',' in /var/www/bitrix/api/v2/MrTradeIn.php on line 19
+[08-Sep-2022 18:56:43 Europe/Moscow] PHP Parse error:  syntax error, unexpected end of file in /var/www/bitrix/test.php on line 40
+[08-Sep-2022 18:56:56 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'CModule' not found in /var/www/bitrix/test.php:5
+Stack trace:
+#0 {main}
+  thrown in /var/www/bitrix/test.php on line 5
+[14-Sep-2022 15:31:51 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'MrGroup\HLBlock\Getter' not found in /var/www/bitrix/test.php:5
+Stack trace:
+#0 {main}
+  thrown in /var/www/bitrix/test.php on line 5
+[30-Nov-2022 15:47:09 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'DOCUMENT_ROOT' (T_STRING), expecting ']' in /var/www/bitrix/index.php on line 5
+[16-Dec-2022 15:08:30 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /var/www/bitrix/test.php on line 1
+[16-Dec-2022 15:10:01 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /var/www/bitrix/test.php on line 1
+[16-Dec-2022 15:17:46 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /var/www/bitrix/test.php on line 1
+[16-Dec-2022 15:26:59 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$attributesString' (T_VARIABLE) in /var/www/bitrix/test.php on line 4
+[16-Dec-2022 15:27:45 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$attributesString' (T_VARIABLE) in /var/www/bitrix/test.php on line 4
+[16-Dec-2022 15:29:03 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$attributesString' (T_VARIABLE) in /var/www/bitrix/test.php on line 4
+[16-Dec-2022 15:29:04 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$attributesString' (T_VARIABLE) in /var/www/bitrix/test.php on line 4
+[16-Dec-2022 15:29:04 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$attributesString' (T_VARIABLE) in /var/www/bitrix/test.php on line 4
+[16-Dec-2022 15:29:04 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$attributesString' (T_VARIABLE) in /var/www/bitrix/test.php on line 4
+[16-Dec-2022 15:29:04 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$attributesString' (T_VARIABLE) in /var/www/bitrix/test.php on line 4
+[16-Dec-2022 15:29:04 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$attributesString' (T_VARIABLE) in /var/www/bitrix/test.php on line 4
+[16-Dec-2022 15:29:05 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$attributesString' (T_VARIABLE) in /var/www/bitrix/test.php on line 4
+[16-Dec-2022 15:29:05 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$attributesString' (T_VARIABLE) in /var/www/bitrix/test.php on line 4
+[16-Dec-2022 15:29:05 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$attributesString' (T_VARIABLE) in /var/www/bitrix/test.php on line 4
+[16-Dec-2022 15:29:06 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$attributesString' (T_VARIABLE) in /var/www/bitrix/test.php on line 4
+[16-Dec-2022 15:29:06 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$attributesString' (T_VARIABLE) in /var/www/bitrix/test.php on line 4
+[16-Dec-2022 15:29:21 Europe/Moscow] PHP Warning:  preg_replace(): Unknown modifier 'g' in /var/www/bitrix/test.php on line 5
+[16-Dec-2022 15:29:21 Europe/Moscow] PHP Stack trace:
+[16-Dec-2022 15:29:21 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/test.php:0
+[16-Dec-2022 15:29:21 Europe/Moscow] PHP   2. preg_replace($regex = '/id=".*F212D44-1C9B-EC11-BE64-00155DFC99C4"/gm', $replace = 'id="F212D44-1C9B-EC11-BE64-00155DFC99C4" class="available"', $subject = '<?xml version="1.0" encoding="utf-8"?>\r\n<!-- Generator: Adobe Illustrator 26.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->\r\n<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"\r\n\t viewBox="0 0 4096 2121" style="enable-background:new 0 0 4096 2121;" xml:space="preserve">\r\n<style type="text/css">\r\n\t.st0{opacity:0.5;}\r\n</style>\r\n<g id="Слой_1_00000159450511065345690340000001103298790970070418_">\r\n</g>\r\n<g id="Слой_2'...) /var/www/bitrix/test.php:5
+[16-Dec-2022 15:29:43 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /var/www/bitrix/test2.php on line 1
+[16-Dec-2022 15:35:49 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /var/www/bitrix/test.php on line 1
+[16-Dec-2022 15:39:36 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /var/www/bitrix/test.php on line 1
+[16-Dec-2022 15:41:23 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /var/www/bitrix/test.php on line 1
+[16-Dec-2022 15:51:56 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /var/www/bitrix/test.php on line 1
+[16-Dec-2022 15:55:54 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /var/www/bitrix/test.php on line 1
+[16-Dec-2022 16:13:43 Europe/Moscow] PHP Notice:  Array to string conversion in /var/www/bitrix/test.php on line 9
+[16-Dec-2022 16:13:43 Europe/Moscow] PHP Stack trace:
+[16-Dec-2022 16:13:43 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/test.php:0
+[16-Dec-2022 16:16:13 Europe/Moscow] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /var/www/bitrix/test.php on line 11
+[16-Dec-2022 16:23:13 Europe/Moscow] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /var/www/bitrix/test.php on line 10
+[16-Dec-2022 16:28:51 Europe/Moscow] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /var/www/bitrix/test.php on line 10
+[16-Dec-2022 16:35:40 Europe/Moscow] PHP Warning:  preg_match(): Unknown modifier 'g' in /var/www/bitrix/test.php on line 8
+[16-Dec-2022 16:35:40 Europe/Moscow] PHP Stack trace:
+[16-Dec-2022 16:35:40 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/test.php:0
+[16-Dec-2022 16:35:40 Europe/Moscow] PHP   2. preg_match($pattern = '/id="?.*E7A0F35-209B-EC11-BE64-00155DFC99C4"/img', $subject = '<?xml version="1.0" encoding="utf-8"?>\r\n<!-- Generator: Adobe Illustrator 26.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->\r\n<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"\r\n\t viewBox="0 0 4096 2121" style="enable-background:new 0 0 4096 2121;" xml:space="preserve">\r\n<style type="text/css">\r\n\t.st0{opacity:0.5;}\r\n</style>\r\n<g id="Слой_1_00000159450511065345690340000001103298790970070418_">\r\n</g>\r\n<g id="Слой_2'..., $subpatterns = NULL) /var/www/bitrix/test.php:8
+[16-Dec-2022 16:36:28 Europe/Moscow] PHP Warning:  preg_match_all(): Unknown modifier 'g' in /var/www/bitrix/test.php on line 8
+[16-Dec-2022 16:36:28 Europe/Moscow] PHP Stack trace:
+[16-Dec-2022 16:36:28 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/test.php:0
+[16-Dec-2022 16:36:28 Europe/Moscow] PHP   2. preg_match_all($pattern = '/id="?.*E7A0F35-209B-EC11-BE64-00155DFC99C4"/img', $subject = '<?xml version="1.0" encoding="utf-8"?>\r\n<!-- Generator: Adobe Illustrator 26.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->\r\n<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"\r\n\t viewBox="0 0 4096 2121" style="enable-background:new 0 0 4096 2121;" xml:space="preserve">\r\n<style type="text/css">\r\n\t.st0{opacity:0.5;}\r\n</style>\r\n<g id="Слой_1_00000159450511065345690340000001103298790970070418_">\r\n</g>\r\n<g id="Слой_2'..., $subpatterns = NULL) /var/www/bitrix/test.php:8
+[16-Dec-2022 16:42:49 Europe/Moscow] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /var/www/bitrix/test.php on line 10
+[23-Dec-2022 12:47:28 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function Authorize() on null in /var/www/bitrix/testdeploy.php:4
+Stack trace:
+#0 {main}
+  thrown in /var/www/bitrix/testdeploy.php on line 4
+[26-Dec-2022 12:40:12 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:40:12 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:40:12 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:40:12 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:40:12 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:40:12 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:40:16 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:40:16 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:40:16 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:40:16 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:40:16 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:40:16 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:41:44 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:41:44 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:41:44 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:41:44 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:41:44 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:41:44 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:42:15 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:42:15 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:42:15 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:42:15 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:42:15 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:42:15 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:42:45 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:42:45 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:42:45 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:42:45 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:42:45 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:42:45 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:43:38 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:43:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:43:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:43:38 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:43:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:43:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:43:46 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:43:46 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:43:46 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:43:46 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:43:46 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:43:46 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:44:04 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:44:04 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:44:04 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:44:04 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:44:04 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:44:04 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:44:17 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:44:17 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:44:17 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:44:17 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:44:17 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:44:17 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:44:47 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:44:47 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:44:47 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:44:47 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:44:47 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:44:47 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:45:05 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:45:05 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:45:05 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:45:05 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:45:05 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:45:05 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:45:48 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:45:48 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:45:48 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:45:48 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:45:48 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:45:48 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:46:06 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:46:06 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:46:06 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:46:06 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:46:06 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:46:06 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:46:15 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:46:15 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:46:15 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:46:15 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:46:15 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:46:15 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:46:38 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:46:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:46:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:46:38 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:46:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:46:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:47:07 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:47:07 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:47:07 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:47:07 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:47:07 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:47:07 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:47:51 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:47:51 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:47:51 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:47:51 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:47:51 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:47:51 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:48:08 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:48:08 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:48:08 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:48:08 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:48:08 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:48:08 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:48:18 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:48:18 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:48:18 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:48:18 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:48:18 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:48:18 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:48:38 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:48:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:48:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:48:38 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:48:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:48:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:48:52 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:48:52 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:48:52 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:48:52 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:48:52 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:48:52 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:49:09 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:49:09 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:49:09 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:49:09 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:49:09 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:49:09 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:49:53 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:49:53 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:49:53 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:49:53 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:49:53 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:49:53 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:50:10 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:50:10 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:50:10 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:50:10 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:50:10 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:50:10 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:50:38 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:50:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:50:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:50:38 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:50:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:50:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:50:54 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:50:54 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:50:54 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:50:54 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:50:54 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:50:54 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:51:11 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:51:11 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:51:11 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:51:11 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:51:11 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:51:11 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:51:55 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:51:55 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:51:55 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:51:55 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:51:55 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:51:55 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:52:12 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:52:12 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:52:12 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:52:12 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:52:12 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:52:12 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:52:38 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:52:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:52:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:52:38 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:52:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:52:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:52:38 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:52:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:52:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:52:38 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:52:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:52:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:52:56 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:52:56 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:52:56 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:52:56 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:52:56 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:52:56 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:53:13 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:53:13 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:53:13 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:53:13 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:53:13 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:53:13 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:53:57 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:53:57 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:53:57 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:53:57 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:53:57 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:53:57 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:54:14 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:54:14 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:54:14 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:54:14 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:54:14 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:54:14 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:54:58 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:54:58 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:54:58 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:54:58 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:54:58 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:54:58 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:55:15 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:55:15 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:55:15 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:55:15 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:55:15 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:55:15 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:55:38 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:55:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:55:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:55:38 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:55:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:55:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:55:59 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:55:59 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:55:59 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:55:59 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:55:59 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:55:59 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:56:16 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:56:16 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:56:16 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:56:16 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:56:16 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:56:16 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:56:38 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:56:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:56:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:56:38 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:56:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:56:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:56:38 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:56:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:56:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:56:38 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:56:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:56:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:57:00 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:57:00 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:57:00 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:57:00 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:57:00 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:57:00 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:57:17 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:57:17 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:57:17 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:57:17 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:57:17 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:57:17 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:58:01 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:58:01 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:58:01 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:58:01 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:58:01 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:58:01 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:58:18 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:58:18 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:58:18 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:58:18 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:58:18 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:58:18 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:59:02 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:59:02 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:59:02 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:59:02 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:59:02 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:59:02 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:59:19 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:59:19 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:59:19 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:59:19 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 12:59:19 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:59:19 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 12:59:38 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:59:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:59:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 12:59:38 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 12:59:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 12:59:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 13:00:03 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:00:03 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:00:03 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:00:03 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:00:03 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:00:03 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:00:20 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:00:20 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:00:20 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:00:20 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:00:20 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:00:20 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:01:04 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:01:04 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:01:04 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:01:04 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:01:04 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:01:04 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:01:21 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:01:21 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:01:21 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:01:21 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:01:21 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:01:21 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:01:38 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 13:01:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:01:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 13:01:38 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 13:01:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:01:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 13:01:38 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 13:01:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:01:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 13:01:38 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 13:01:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:01:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 13:02:05 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:02:05 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:02:05 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:02:05 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:02:05 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:02:05 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:02:22 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:02:22 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:02:22 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:02:22 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:02:22 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:02:22 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:03:06 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:03:06 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:03:06 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:03:06 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:03:06 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:03:06 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:03:23 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:03:23 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:03:23 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:03:23 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:03:23 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:03:23 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:04:07 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:04:07 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:04:07 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:04:07 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:04:07 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:04:07 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:04:24 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:04:24 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:04:24 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:04:24 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:04:24 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:04:24 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:04:38 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 13:04:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:04:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 13:04:38 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 13:04:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:04:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 13:05:08 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:05:08 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:05:08 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:05:08 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:05:08 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:05:08 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:05:25 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:05:25 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:05:25 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:05:25 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:05:25 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:05:25 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:05:38 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 13:05:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:05:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 13:05:38 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 13:05:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:05:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 13:05:38 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 13:05:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:05:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 13:05:38 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 13:05:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:05:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 13:06:09 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:06:09 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:06:09 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:06:09 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:06:09 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:06:09 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:06:26 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:06:26 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:06:26 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:06:26 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:06:26 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:06:26 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:07:10 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:07:10 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:07:10 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:07:10 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:07:10 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:07:10 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:07:27 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:07:27 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:07:27 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:07:27 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:07:27 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:07:27 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:08:11 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:08:11 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:08:11 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:08:11 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:08:11 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:08:11 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:08:28 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:08:28 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:08:28 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:08:28 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:08:28 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:08:28 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:08:38 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 13:08:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:08:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 13:08:38 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 13:08:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:08:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 13:09:12 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:09:12 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:09:12 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:09:12 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:09:12 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:09:12 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:09:29 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:09:29 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:09:29 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:09:29 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:09:29 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:09:29 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:09:38 Europe/Moscow] PHP Warning:  require_once(/var/www/bitrix/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 13:09:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:09:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 13:09:38 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[26-Dec-2022 13:09:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:09:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 13:10:13 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:10:13 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:10:13 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:10:13 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:10:13 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:10:13 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:10:30 Europe/Moscow] PHP Warning:  require(/var/www/bitrix/bitrix/modules/main/public/session.php): failed to open stream: No such file or directory in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:10:30 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:10:30 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:10:30 Europe/Moscow] PHP Fatal error:  require(): Failed opening required '/var/www/bitrix/bitrix/modules/main/public/session.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/tools/public_session.php on line 1
+[26-Dec-2022 13:10:30 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:10:30 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrix/tools/public_session.php:0
+[26-Dec-2022 13:10:38 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/var/www/bitrix/bitrix/modules/main/lib/loader.php' (include_path='.:/usr/share/php') in /var/www/bitrix/bitrix/modules/main/start.php on line 12
+[26-Dec-2022 13:10:38 Europe/Moscow] PHP Stack trace:
+[26-Dec-2022 13:10:38 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[26-Dec-2022 13:10:38 Europe/Moscow] PHP   2. require_once() /var/www/bitrix/ajax/update_token.php:2
+[26-Dec-2022 13:10:38 Europe/Moscow] PHP   3. require_once() /var/www/bitrix/bitrix/modules/main/include/prolog_before.php:14
+[26-Dec-2022 13:10:38 Europe/Moscow] PHP   4. require_once() /var/www/bitrix/bitrix/modules/main/include.php:12
+[18-Jan-2023 00:01:10 Europe/Moscow] PHP Warning:  require_once(/bitrix/modules/main/include/prolog_before.php): failed to open stream: No such file or directory in /var/www/bitrix/ajax/update_token.php on line 2
+[18-Jan-2023 00:01:10 Europe/Moscow] PHP Stack trace:
+[18-Jan-2023 00:01:10 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[18-Jan-2023 00:01:10 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '/bitrix/modules/main/include/prolog_before.php' (include_path='.:/usr/share/php') in /var/www/bitrix/ajax/update_token.php on line 2
+[18-Jan-2023 00:01:10 Europe/Moscow] PHP Stack trace:
+[18-Jan-2023 00:01:10 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/ajax/update_token.php:0
+[13-Feb-2023 17:26:39 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /var/www/bitrix/index.php on line 2
+[13-Feb-2023 17:39:15 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /var/www/bitrix/index.php on line 3
+[02-Mar-2023 18:38:57 Europe/Moscow] PHP Fatal error:  $GLOBALS can only be modified using the $GLOBALS[$name] = $value syntax in /var/www/bitrix/bitrix/modules/main/tools.php on line 4054
+[02-Mar-2023 18:39:11 Europe/Moscow] PHP Fatal error:  $GLOBALS can only be modified using the $GLOBALS[$name] = $value syntax in /var/www/bitrix/bitrix/modules/main/include/urlrewrite.php on line 90
+[03-Mar-2023 12:09:43 Europe/Moscow] PHP Fatal error:  $GLOBALS can only be modified using the $GLOBALS[$name] = $value syntax in /var/www/bitrix/bitrix/modules/main/include/urlrewrite.php on line 90
+[03-Mar-2023 12:09:43 Europe/Moscow] PHP Fatal error:  $GLOBALS can only be modified using the $GLOBALS[$name] = $value syntax in /var/www/bitrix/bitrix/modules/main/include/urlrewrite.php on line 90
+[03-Mar-2023 12:09:43 Europe/Moscow] PHP Fatal error:  $GLOBALS can only be modified using the $GLOBALS[$name] = $value syntax in /var/www/bitrix/bitrix/modules/main/include/urlrewrite.php on line 90
+[03-Mar-2023 12:09:43 Europe/Moscow] PHP Fatal error:  $GLOBALS can only be modified using the $GLOBALS[$name] = $value syntax in /var/www/bitrix/bitrix/modules/main/include/urlrewrite.php on line 90
+[03-Mar-2023 15:42:28 Europe/Moscow] PHP Fatal error:  $GLOBALS can only be modified using the $GLOBALS[$name] = $value syntax in /var/www/bitrix/bitrix/modules/main/tools.php on line 4054
+[03-Mar-2023 15:42:42 Europe/Moscow] PHP Fatal error:  $GLOBALS can only be modified using the $GLOBALS[$name] = $value syntax in /var/www/bitrix/bitrix/modules/main/include/urlrewrite.php on line 90
+[03-Mar-2023 15:51:01 Europe/Moscow] PHP Fatal error:  $GLOBALS can only be modified using the $GLOBALS[$name] = $value syntax in /var/www/bitrix/bitrix/modules/main/tools.php on line 4054
+[04-Mar-2023 12:04:29 Europe/Moscow] PHP Fatal error:  $GLOBALS can only be modified using the $GLOBALS[$name] = $value syntax in /var/www/bitrix/bitrix/modules/main/tools.php on line 4054
+[15-Mar-2023 00:41:44 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 847
+[15-Mar-2023 00:41:44 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:41:44 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:41:44 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:41:44 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 302 Found', $needle = 302) /var/www/bitrix/bitrixsetup.php:847
+[15-Mar-2023 00:41:44 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 847
+[15-Mar-2023 00:41:44 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:41:44 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:41:44 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:41:44 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 302 Found', $needle = 302) /var/www/bitrix/bitrixsetup.php:847
+[15-Mar-2023 00:41:44 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 847
+[15-Mar-2023 00:41:44 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:41:44 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:41:44 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:41:44 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:847
+[15-Mar-2023 00:41:44 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 847
+[15-Mar-2023 00:41:44 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:41:44 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:41:44 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:41:44 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:847
+[15-Mar-2023 00:41:45 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 996
+[15-Mar-2023 00:41:45 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:41:45 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:41:45 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:41:45 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:996
+[15-Mar-2023 00:41:45 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 996
+[15-Mar-2023 00:41:45 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:41:45 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:41:45 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:41:45 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:996
+[15-Mar-2023 00:41:55 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 847
+[15-Mar-2023 00:41:55 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:41:55 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:41:55 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:41:55 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:847
+[15-Mar-2023 00:41:55 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 847
+[15-Mar-2023 00:41:55 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:41:55 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:41:55 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:41:55 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:847
+[15-Mar-2023 00:41:55 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 996
+[15-Mar-2023 00:41:55 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:41:55 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:41:55 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:41:55 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:996
+[15-Mar-2023 00:41:55 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 996
+[15-Mar-2023 00:41:55 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:41:55 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:41:55 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:41:55 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:996
+[15-Mar-2023 00:42:06 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 847
+[15-Mar-2023 00:42:06 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:42:06 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:42:06 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:42:06 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:847
+[15-Mar-2023 00:42:06 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 847
+[15-Mar-2023 00:42:06 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:42:06 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:42:06 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:42:06 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:847
+[15-Mar-2023 00:42:06 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 996
+[15-Mar-2023 00:42:06 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:42:06 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:42:06 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:42:06 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:996
+[15-Mar-2023 00:42:06 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 996
+[15-Mar-2023 00:42:06 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:42:06 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:42:06 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:42:06 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:996
+[15-Mar-2023 00:42:17 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 847
+[15-Mar-2023 00:42:17 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:42:17 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:42:17 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:42:17 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:847
+[15-Mar-2023 00:42:17 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 847
+[15-Mar-2023 00:42:17 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:42:17 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:42:17 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:42:17 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:847
+[15-Mar-2023 00:42:17 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 996
+[15-Mar-2023 00:42:17 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:42:17 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:42:17 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:42:17 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:996
+[15-Mar-2023 00:42:17 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 996
+[15-Mar-2023 00:42:17 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:42:17 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:42:17 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:42:17 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:996
+[15-Mar-2023 00:42:28 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 847
+[15-Mar-2023 00:42:28 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:42:28 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:42:28 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:42:28 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:847
+[15-Mar-2023 00:42:28 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 847
+[15-Mar-2023 00:42:28 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:42:28 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:42:28 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:42:28 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:847
+[15-Mar-2023 00:42:28 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 996
+[15-Mar-2023 00:42:28 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:42:28 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:42:28 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:42:28 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:996
+[15-Mar-2023 00:42:28 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 996
+[15-Mar-2023 00:42:28 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:42:28 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:42:28 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:42:28 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:996
+[15-Mar-2023 00:42:39 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 847
+[15-Mar-2023 00:42:39 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:42:39 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:42:39 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:42:39 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:847
+[15-Mar-2023 00:42:39 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 847
+[15-Mar-2023 00:42:39 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:42:39 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:42:39 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:42:39 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 200 OK', $needle = 200) /var/www/bitrix/bitrixsetup.php:847
+[15-Mar-2023 00:42:39 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 996
+[15-Mar-2023 00:42:39 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:42:39 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:42:39 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:42:39 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:996
+[15-Mar-2023 00:42:39 Europe/Moscow] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /var/www/bitrix/bitrixsetup.php on line 996
+[15-Mar-2023 00:42:39 Europe/Moscow] PHP Stack trace:
+[15-Mar-2023 00:42:39 Europe/Moscow] PHP   1. {main}() /var/www/bitrix/bitrixsetup.php:0
+[15-Mar-2023 00:42:39 Europe/Moscow] PHP   2. LoadFile($strRequestedUrl = 'https://www.1c-bitrix.ru/download/standard_encode.tar.gz', $strFilename = '/var/www/bitrix/standard_encode.tar.gz', $iTimeOut = 10) /var/www/bitrix/bitrixsetup.php:619
+[15-Mar-2023 00:42:39 Europe/Moscow] PHP   3. strpos($haystack = 'HTTP/1.1 206 Partial Content', $needle = 206) /var/www/bitrix/bitrixsetup.php:996

@@ -1,0 +1,20 @@
+# OS or Editor folders
+.DS_Store
+._*
+Thumbs.db
+.tmproj
+*.sublime-project
+*.sublime-workspace
+
+# Folders to ignore
+.git
+.vscode
+.hg
+.svn
+.CVS
+.idea
+
+# Folders bitrix
+backend/bitrix/
+backend/vendor/
+backend/upload/
