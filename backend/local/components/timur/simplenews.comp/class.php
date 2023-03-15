@@ -15,7 +15,12 @@ Loader::includeModule('iblock');
 
 class SimpleNewsComponent extends \CBitrixComponent
 {
-    public function onPrepareComponentParams($params)
+    /**
+     * @param array $params
+     * @return array|void
+     * @throws \Bitrix\Main\ArgumentOutOfRangeException
+     */
+    public function onPrepareComponentParams(array $params)
     {
         parent::onPrepareComponentParams($params);
 
@@ -108,14 +113,21 @@ class SimpleNewsComponent extends \CBitrixComponent
         $this->includeComponentTemplate();
     }
 
-    private function setTitle($getCount): void
+    /**
+     * @param int $getCount
+     * @return void
+     */
+    private function setTitle(int $getCount): void
     {
         global $APPLICATION;
 
         $APPLICATION->SetTitle("Список новостей (" . $getCount . " шт.)");
     }
 
-    private function getYearsAllNews()
+    /**
+     * @return array
+     */
+    private function getYearsAllNews(): array
     {
         $arYears = [];
 
@@ -134,7 +146,12 @@ class SimpleNewsComponent extends \CBitrixComponent
         return $arYears;
     }
 
-    private function getDateByYear(string $year, string $point)
+    /**
+     * @param string $year
+     * @param string $point
+     * @return string
+     */
+    private function getDateByYear(string $year, string $point): string
     {
         if ($point == 'start') {
             return date('d.m.Y 00:00:00', strtotime("01/01/{$year}"));

@@ -4,7 +4,7 @@ if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
 $arComponentParameters = array(
     "GROUPS" => array(
         "SETTINGS" => array(
-            "NAME" => "Данные для компонента",
+            "NAME" => "Настройки для компонента",
             "SORT" => 10,
         ),
     ),
@@ -19,6 +19,7 @@ $arComponentParameters = array(
             "PARENT" => "SETTINGS",
             "NAME" => "Число новостей на 1-ой странице",
             "TYPE" => "STRING",
+            "DEFAULT" => "2",
         ),
 	),
 
